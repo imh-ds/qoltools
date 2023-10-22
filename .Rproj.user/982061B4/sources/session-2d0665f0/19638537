@@ -1,0 +1,26 @@
+{
+    "id": "19638537",
+    "path": "C:/Users/imhoh/OneDrive/Academia/GitHub/qoltools/notebook/WIP.R",
+    "project_path": "notebook/WIP.R",
+    "type": "r_source",
+    "hash": "2663654012",
+    "contents": "",
+    "dirty": false,
+    "created": 1698002860678.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2125,0",
+        "scrollLine": "0"
+    },
+    "folds": "15|33|363|0|\n19|35|125|2|\n127|42|232|2|\n234|29|352|2|\n364|16|852|0|\n853|34|1139|0|\n1140|29|1454|0|\n1455|24|1521|0|\n1522|19|1694|0|\n1540|38|1691|0|\n1695|30|2124|0|\n",
+    "lastKnownWriteTime": 1698012428,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1698012428627,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "63566469",
+    "path": "C:/Users/imhoh/OneDrive/Academia/GitHub/qoltools/R/data_train_test_splitter.R",
+    "project_path": "R/data_train_test_splitter.R",
+    "type": "r_source",
+    "hash": "422007807",
+    "contents": "",
+    "dirty": false,
+    "created": 1698012307100.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "22,21",
+        "scrollLine": "2"
+    },
+    "folds": "29|43|117|0|\n",
+    "lastKnownWriteTime": 1698012344,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1698012344845,
+    "read_only": false,
+    "read_only_alternatives": []
+}
