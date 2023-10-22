@@ -1,24 +1,24 @@
 {
-    "id": "8FCFDB0E",
+    "id": "6EB34652",
     "path": "C:/Users/imhoh/OneDrive/Academia/GitHub/qoltools/R/structural_equation_model_wrapper.R",
     "project_path": "R/structural_equation_model_wrapper.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "3403050266",
     "contents": "",
     "dirty": false,
-    "created": 1698013806796.0,
+    "created": 1698015053705.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1698013793,
+    "lastKnownWriteTime": 1698015040,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698013793,
+    "last_content_update": 1698015040,
     "read_only": false,
     "read_only_alternatives": []
 }

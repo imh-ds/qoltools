@@ -81,7 +81,7 @@ sem_wrapper = function(data = .,
                         fixed.x = FALSE)
   
   # Get Summary of SEM
-  sem_sum <- summary(sem_mod)
+  sem_sum <- lavaan::summary(sem_mod)
   sem_nobs <- sem_sum[["data"]][["nobs"]]
   
   if(is.null(sem_sum[["data"]][["norig"]])){
