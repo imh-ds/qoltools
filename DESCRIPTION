@@ -1,0 +1,23 @@
+Package: qoltools
+Type: Package
+Title: Quality of Life Automation Wrappers for Social and Behavioral Sciences
+Version: 0.1.0
+Author: Hohjin Im
+Maintainer: Hohjin Im <hohjini@uci.edu>
+Description: Quality of Life Tools (qoltools) for social and behavioral 
+    sciences research. This package automates the running and extracting of
+    common analyses.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends:
+    R (>= 4.2.2),
+    tidyverse
+Imports:
+    lavaan,
+    seminr,
+    psych,
+    Hmisc,
+    magrittr,
+    data.table,
+    VIM
+RoxygenNote: 7.2.3
