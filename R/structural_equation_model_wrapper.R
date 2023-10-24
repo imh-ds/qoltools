@@ -1,4 +1,4 @@
-#' STRUCTURAL EQUATION MODELING WRAPPER
+#' Structural Equation Modeling Wrapper
 #' 
 #' @description
 #' A simple wrapper that automates the running and extraction of common
