@@ -2,7 +2,7 @@
 % Please edit documentation in R/structural_equation_model_wrapper.R
 \name{sem_wrapper}
 \alias{sem_wrapper}
-\title{STRUCTURAL EQUATION MODELING WRAPPER}
+\title{Structural Equation Modeling Wrapper}
 \usage{
 sem_wrapper(
   data = .,
