@@ -1,0 +1,39 @@
+---
+title: "README"
+author: "Hohjin Im"
+date: "2023-10-25"
+output: html_document
+---
+
+# Quality of Life Automation Tools (qoltools)
+
+## Description
+
+This is an R package that automates common analyses in the social and behavioral sciences. All outputs are designed to be exportable to Excel for easy copy and pasting to word documents.
+
+## Installation
+
+The current package is not available on CRAN. Please install directly via Github.
+
+```{r setup, echo=FALSE}
+
+# install.packages("devtools")
+devtools::install_github("imh-ds/qoltools")
+
+```
+
+## Usage
+
+There are several wrapper functions to automate various analyses, such as Structural Equation Modeling. Please use the help documentation for information on each. The list of offerings will be increased with each update.
+
+## Development Status
+
+Please note that this package is still under development. It’s not yet at version 1.0 and will undergo several changes before it reaches that point. We appreciate your understanding and patience.
+
+## No Warranty
+
+This package is provided “as is” and without any express or implied warranties, including, without limitation, the implied warranties of merchantability and fitness for a particular purpose. Users are to use it at their own risk.
+
+## License
+
+This project is licensed under the terms of the GNU General Public License v2.0 or later (GPL-2.0-or-later). This R package relies on several dependencies and other packages that are under the GPL-2.0-or-later licenses.
